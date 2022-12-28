@@ -1,0 +1,10 @@
+h1 {
+    color: green; 
+    background-color: yellow; 
+    font-size: 24px;
+}
+p {
+    color: red; 
+    font-style: italic; 
+    font-size: 14px;
+}
